@@ -1,3 +1,3 @@
 layout: page
 title: "Blog"
-header-img: "img/Banner2-2.jpg"
+header-img: "img/Banner1.jpg"

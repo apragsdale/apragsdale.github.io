@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Contact"
-header-img: "img/Banner3.jpg"
+header-img: "img/Banner1.jpg"
 ---
 
 Feel free to email me at aaron.ragsdale (at) mail.mcgill.ca
