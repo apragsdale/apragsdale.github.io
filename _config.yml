@@ -1,0 +1,19 @@
+# Site settings
+title: Aaron Ragsdale
+header-img: img/background8.jpg
+email: aaron.ragsdale@mail.mcgill.ca
+description: "Website Aaron Ragsdale"
+baseurl: ""
+url: "http://apragsdale.github.io"
+twitter_username: apragsdale
+github_username:  apragsdale
+
+## Google Analytics
+## google_tracking_id: UA-81468422-1
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+gems: [jekyll-paginate, jekyll-feed]
