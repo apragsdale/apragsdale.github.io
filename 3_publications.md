@@ -4,7 +4,7 @@ title: "Publications"
 header-img: "img/Banner3.jpg"
 ---
 
-#### Preprints
+### Preprints
 
 [The PopSim Consortium](https://github.com/popsim-consortium), 2019.
 [A community-maintained standard library of population genetic models](https://doi.org/10.1101/2019.12.20.885129).
@@ -15,10 +15,10 @@ Alyssa Lyn Fortier, Alec J Coffman, Travis J Struck, Megan N Irby, Jose E L Burg
 *BioRxiv*.
 
 Dominic Nelson, Jerome Kelleher, **Aaron P Ragsdale**,  Gil McVean, Simon Gravel, 2019.
-[Coupling Wright-Fisher and coalescent dynamics for realistic simulation of population-scale datasets](https://doi.org/10.1101/674440)
+[Coupling Wright-Fisher and coalescent dynamics for realistic simulation of population-scale datasets](https://doi.org/10.1101/674440).
 *BioRxiv*.
 
-#### Articles  
+### Articles  
 
 **Aaron P Ragsdale**, Simon Gravel, 2019.
 [Unbiased Estimation of Linkage Disequilibrium from Unphased Data](https://doi.org/10.1093/molbev/msz265).
@@ -48,7 +48,7 @@ Xinshuai Qi, Hong An, **Aaron P Ragsdale**, Tara E Hall, Ryan N Gutenkunst, J Ch
 [Triallelic population genomics for inferring correlated fitness effects of same site nonsynonymous mutations](https://doi.org/10.1534/genetics.115.184812).
 *Genetics*, 203(1): 513-523.
 
-#### Book Chapters
+### Book Chapters
 
 Brian K Mannakee, **Aaron P Ragsdale**, Mark K Transtrum, Ryan N Gutenkunst, 2016.
 [Sloppiness and the geometry of parameter space. in Uncertainty](https://link.springer.com/chapter/10.1007/978-3-319-21296-8_11)
