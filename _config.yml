@@ -8,8 +8,8 @@ url: "http://apragsdale.github.io"
 twitter_username: apragsdale
 github_username:  apragsdale
 
-## Google Analytics
-## google_tracking_id: 
+# Google Analytics
+google_tracking_id: UA-25895598-2
 
 # Build settings
 markdown: kramdown

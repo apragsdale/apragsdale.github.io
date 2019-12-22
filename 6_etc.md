@@ -1,3 +1,7 @@
+---
 layout: page
-title: "Blog"
+title: "Etc"
 header-img: "img/Banner1.jpg"
+---
+
+Et cetera
