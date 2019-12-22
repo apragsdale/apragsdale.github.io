@@ -55,4 +55,4 @@ Brian K Mannakee, **Aaron P Ragsdale**, Mark K Transtrum, Ryan N Gutenkunst, 201
 in *Biology: a Computational Modeling Approach*.
 Springer, Edited by D Gomez-Cabrero and L Geris.
 
-// \* these authors contributed equally
+[//]: #  (\* these authors contributed equally)
