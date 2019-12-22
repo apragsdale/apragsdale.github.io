@@ -19,6 +19,7 @@ Postdoctoral Fellow, March 2017 -- present.
 
 Research Assistant, August 2011 -- Feb 2017.  
 Ryan Gutenkunst Lab, Department of Molecular and Cellular Biology, University of Arizona.
+
 ___
 
 My full CV can be found here <a href="/CV/ragsdale_cv.pdf" target="_blank"><i class="fa fa-file-text fa-md"></i></a>.
