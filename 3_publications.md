@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Publications"
-header-img: "img/Banner4.jpg"
+header-img: "img/Banner3.jpg"
 ---
 
 
