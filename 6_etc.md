@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "Etc"
+title: "Etc."
 header-img: "img/Banner6.jpg"
 ---
 
-Et cetera
+#### Et cetera
+
+#### My gardens
