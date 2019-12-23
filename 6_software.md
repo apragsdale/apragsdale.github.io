@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Etc."
+title: "Software"
 header-img: "img/Banner6.jpg"
 ---
 

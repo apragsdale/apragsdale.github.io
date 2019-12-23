@@ -2,7 +2,7 @@
 layout: page
 title: "Research"
 description: ""
-header-img: "img/Banner0.jpg"
+header-img: "img/Banner3.jpg"
 ---
 
 Stay tuned -- this page in development

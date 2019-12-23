@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Contact"
-header-img: "img/Banner5.jpg"
+header-img: "img/Banner4.jpg"
 ---
 
 Email: aaron.ragsdale (at) mail.mcgill.ca
