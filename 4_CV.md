@@ -5,14 +5,14 @@ header-img: "img/Banner4.jpg"
 ---
 
 
-#### Education  
+### Education  
 
 Ph.D. Applied Mathematics, University of Arizona, 2017.  
 Advisor: [Ryan Gutenkunst](http://gutengroup.mcb.arizona.edu/)
 
 B.S. Mathematics, University of Portland, 2010.
 
-#### Research Positions
+### Research Positions
 
 Postdoctoral Fellow, March 2017 -- present.  
 [Simon Gravel](http://simongravel.lab.mcgill.ca) lab, Department of Human Genetics, McGill University, Canada.

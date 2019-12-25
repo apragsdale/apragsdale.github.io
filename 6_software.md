@@ -8,8 +8,8 @@ Software that I have developed or contributed to:
 
 (note to self: fill in)
 
-### stdpopsim
+#### stdpopsim
 
-### moments and moments-LD
+#### moments and moments-LD
 
-### dadi Triallele and TwoLocus
+#### dadi Triallele and TwoLocus

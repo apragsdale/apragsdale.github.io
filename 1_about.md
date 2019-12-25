@@ -4,11 +4,24 @@ title: "About Me"
 header-img: "img/Banner0.jpg"
 ---
 
-More to come...
+I study the evolutionary and historical processes that shape molecular and organismal
+variation. My research combines the development of evolutionary theory, computational
+approaches, simulations, and application to large-scale sequencing datasets to make
+inferences about evolutionary and demographic history from data.
+
+I am currently a post-doc under the supervision of
+[Simon Gravel](http://simongravel.lab.mcgill.ca/Home.html) in the Department of
+Human Genetics at McGill University. Here, I have developed theory and computational
+tools to predict and measure patterns of linkage disequilibrium and diversity, which is used
+for the inference of demographic history in multi-population models. I am particularly
+interested in learning about human origins and deep population structure in human history. 
+
+Previously, I was a graduate student with [Ryan Gutenkunst](http://gutengroup.mcb.arizona.edu/) at the University of Arizona. There, I built methods to analyze sequencing data to learn about demographic history
+and to infer the distribution of selective effects of new mutations.
 
 ___
 
 <div style="float: left; padding-right: 25px; padding-bottom: 25px">
 	<a href="http://apragsdale.github.io/img/AboutMe_pic.jpg"><img src="/img/AboutMe_pic.jpg" width="450" alt="Aaron Ragsdale" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
 </div>
-Me at the Montreal Botanical Gardens.
+At the Montreal Botanical Gardens.
