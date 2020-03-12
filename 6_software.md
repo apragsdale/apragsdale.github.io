@@ -20,5 +20,5 @@ statistics for evolutionary inference.
 
 #### Small projects:
 [demography](https://github.com/apragsdale/demography/issues): a tool for easily defining
-multi-population demographic histories to run simulation sofware.  
+multi-population demographic histories to run simulation sofware.
 [Your paper here]
