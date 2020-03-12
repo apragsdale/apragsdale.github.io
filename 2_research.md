@@ -7,7 +7,7 @@ header-img: "img/Banner3.jpg"
 
 This page in progress
 
-### Deep population structure and human origins  
+### Deep population structure and human origins
  - single origin vs reticulated history
  - unidentified archaic or deep branches within African populations
  - studying geographically and genetically diverse populations within Africa to make sense

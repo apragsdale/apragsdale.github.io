@@ -4,12 +4,15 @@ title: "Software"
 header-img: "img/Banner6.jpg"
 ---
 
-Software that I have developed or contributed to:
+Software and resources that I have contributed to or developed:
 
-(note to self: fill in)
+#### [stdpopsim](https://github.com/popsim-consortium/stdpopsim):
+A community-maintained library of standard simulation population genetic
+simulation models. ([Associated Paper](https://doi.org/10.1101/2019.12.20.885129))
 
-#### stdpopsim
+#### [moments and moments-LD]
+(https://bitbucket.org/simongravel/moments/src/master/):
+Solving the diffusion equation for the allele frequency spectrum, LD, and other diversity
+statistics for evolutionary inference.
 
-#### moments and moments-LD
-
-#### dadi Triallele and TwoLocus
+#####Small projects: 

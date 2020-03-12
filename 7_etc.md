@@ -6,4 +6,4 @@ header-img: "img/Banner6.jpg"
 
 #### Et cetera
 
-#### My gardens
+This page clearly in progress.
