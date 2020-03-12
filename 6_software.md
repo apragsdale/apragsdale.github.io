@@ -16,6 +16,6 @@ simulation models. ([Associated Paper](https://doi.org/10.1101/2019.12.20.885129
 Solving the diffusion equation for the allele frequency spectrum, LD, and other diversity
 statistics for evolutionary inference.
 
-####Small projects:
+#### Small projects:
 [demography](https://github.com/apragsdale/demography/issues): a tool for easily defining
 multi-population demographic histories to run simulation sofware.  
