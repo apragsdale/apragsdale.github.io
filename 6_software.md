@@ -8,8 +8,8 @@ Software and resources that I have contributed to or developed:
 
 #### stdpopsim
 [link](https://github.com/popsim-consortium/stdpopsim):
-A community-maintained library of standard simulation population genetic
-simulation models. ([Associated paper](https://doi.org/10.1101/2019.12.20.885129))
+A community-maintained library of standard population genetic simulation models and
+resources. ([Associated paper](https://doi.org/10.1101/2019.12.20.885129))
 
 #### moments and moments-LD
 [link](https://bitbucket.org/simongravel/moments/src/master/):
