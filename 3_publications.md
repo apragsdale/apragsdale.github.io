@@ -20,9 +20,9 @@ Dominic Nelson, Jerome Kelleher, **Aaron P Ragsdale**,  Gil McVean, Simon Gravel
 
 ### Articles  
 
-**Aaron P Ragsdale**, Simon Gravel, 2019.
+**Aaron P Ragsdale**, Simon Gravel, 2020.
 [Unbiased Estimation of Linkage Disequilibrium from Unphased Data](https://doi.org/10.1093/molbev/msz265).
-*Molecular Biology and Evolution*, msz265.
+*Molecular Biology and Evolution* 37(3): 923-932.
 
 **Aaron P Ragsdale**, Simon Gravel, 2019.
 [Models of archaic admixture and recent history from two-locus statistics](https://doi.org/10.1371/journal.pgen.1008204).
