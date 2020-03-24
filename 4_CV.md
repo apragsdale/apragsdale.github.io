@@ -18,7 +18,7 @@ Postdoctoral Fellow, March 2017 -- present.
 [Simon Gravel](http://simongravel.lab.mcgill.ca) lab, Department of Human Genetics, McGill University, Canada.
 
 Research Assistant, August 2011 -- Feb 2017.  
-Ryan Gutenkunst Lab, Department of Molecular and Cellular Biology, University of Arizona.
+Ryan Gutenkunst lab, Department of Molecular and Cellular Biology, University of Arizona.
 
 ___
 
