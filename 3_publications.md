@@ -14,11 +14,11 @@ Alyssa Lyn Fortier, Alec J Coffman, Travis J Struck, Megan N Irby, Jose E L Burg
 [DFEnitely different: Genome-wide characterization of differences in mutation fitness effects between populations](https://doi.org/10.1101/703918).
 *BioRxiv*.
 
-Dominic Nelson, Jerome Kelleher, **Aaron P Ragsdale**,  Gil McVean, Simon Gravel, 2019.
-[Coupling Wright-Fisher and coalescent dynamics for realistic simulation of population-scale datasets](https://doi.org/10.1101/674440).
-*BioRxiv*.
-
 ### Articles  
+
+Dominic Nelson, Jerome Kelleher, **Aaron P Ragsdale**,  Gil McVean, Simon Gravel, 2020.
+[Accounting for long-range correlations in genome-wide simulations of large cohorts.](https://doi.org/10.1371/journal.pgen.1008619).
+*PLoS Genetics* 16(5), e1008619.
 
 **Aaron P Ragsdale**, Simon Gravel, 2020.
 [Unbiased Estimation of Linkage Disequilibrium from Unphased Data](https://doi.org/10.1093/molbev/msz265).
