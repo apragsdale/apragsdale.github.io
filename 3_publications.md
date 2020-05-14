@@ -17,7 +17,7 @@ Alyssa Lyn Fortier, Alec J Coffman, Travis J Struck, Megan N Irby, Jose E L Burg
 ### Articles  
 
 Dominic Nelson, Jerome Kelleher, **Aaron P Ragsdale**,  Gil McVean, Simon Gravel, 2020.
-[Accounting for long-range correlations in genome-wide simulations of large cohorts.](https://doi.org/10.1371/journal.pgen.1008619).
+[Accounting for long-range correlations in genome-wide simulations of large cohorts](https://doi.org/10.1371/journal.pgen.1008619).
 *PLoS Genetics* 16(5), e1008619.
 
 **Aaron P Ragsdale**, Simon Gravel, 2020.
