@@ -6,7 +6,7 @@ header-img: "img/Banner3.jpg"
 
 ### Preprints
 
-**Aaron P. Ragsdale**, Dominic Nelson, Simon Gravel, Jerome Kelleher, 2020.
+**Aaron P Ragsdale**, Dominic Nelson, Simon Gravel, Jerome Kelleher, 2020.
 [Lessons learned from bugs in models of human history](https://www.biorxiv.org/content/10.1101/2020.06.04.131284v1). *BioRxiv*.
 
 [The PopSim Consortium](https://github.com/popsim-consortium), 2019.
