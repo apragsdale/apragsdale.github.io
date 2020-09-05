@@ -9,12 +9,17 @@ variation. My research combines the development of evolutionary theory, computat
 approaches, simulations, and application to large-scale sequencing datasets to make
 inferences about evolutionary and demographic history from data.
 
-I am currently a post-doc under the supervision of
+In Fall 2021, I will be joining the Department of Integrative Biology at the 
+University of Wisconsin in Madison. Stay tuned for updates!
+
+As of August 2020, I am a post-doc in the [Moreno Lab](http://www.morenolab.org/)
+at Langebio-Cinvestav in Irapuato, Mexico.
+From 2017-2020 I was a post-doc under the supervision of
 [Simon Gravel](http://simongravel.lab.mcgill.ca/Home.html) in the Department of
-Human Genetics at McGill University. Here, I have developed theory and computational
+Human Genetics at McGill University. I developed theory and computational
 tools to predict and measure patterns of linkage disequilibrium and diversity, which is used
-for the inference of demographic history in multi-population models. I am particularly
-interested in learning about human origins and deep population structure in human history. 
+for the inference of demographic history in multi-population models. My primary projects focused
+on learning about human origins and deep population structure in human history. 
 
 Previously, I was a graduate student with [Ryan Gutenkunst](http://gutengroup.mcb.arizona.edu/) at the University of Arizona. There, I built methods to analyze sequencing data to learn about demographic history
 and to infer the distribution of selective effects of new mutations.
