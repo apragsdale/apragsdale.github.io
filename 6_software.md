@@ -4,7 +4,8 @@ title: "Software"
 header-img: "img/Banner6.jpg"
 ---
 
-Software and resources that I have contributed to or developed:
+#### demes
+[link](http://github.com/popsim-consortium/demes-python):
 
 #### stdpopsim
 [link](https://github.com/popsim-consortium/stdpopsim):
