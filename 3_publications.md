@@ -6,18 +6,23 @@ header-img: "img/Banner3.jpg"
 
 ### Preprints
 
-**Aaron P Ragsdale**, Dominic Nelson, Simon Gravel, Jerome Kelleher, 2020.
-[Lessons learned from bugs in models of human history](https://www.biorxiv.org/content/10.1101/2020.06.04.131284v1). *BioRxiv*.
-
-[The PopSim Consortium](https://github.com/popsim-consortium), 2019.
-[A community-maintained standard library of population genetic models](https://doi.org/10.1101/2019.12.20.885129).
-*BioRxiv*.
+Shadi Zabad, **Aaron P. Ragsdale**, Rosie Sun, Yue Li, Simon Gravel, 2019.
+[Assumptions about frequency-dependent architectures of complex traits bias measures of functional enrichment](https://www.biorxiv.org/content/10.1101/2020.10.23.352427).
+*BioRxiv*, doi: 10.1101/2020.10.23.352427.
 
 Alyssa Lyn Fortier, Alec J Coffman, Travis J Struck, Megan N Irby, Jose E L Burguete, **Aaron P Ragsdale**, Ryan N Gutenkunst, 2019.
 [DFEnitely different: Genome-wide characterization of differences in mutation fitness effects between populations](https://doi.org/10.1101/703918).
-*BioRxiv*.
+*BioRxiv*, doi: 10.1101/703918.
 
 ### Articles  
+
+[The PopSim Consortium](https://github.com/popsim-consortium) (Adrion et al.), 2019.
+[A community-maintained standard library of population genetic models](https://elifesciences.org/articles/54967).
+*eLife* 9, e54967.
+
+**Aaron P Ragsdale**, Dominic Nelson, Simon Gravel, Jerome Kelleher, 2020.
+[Lessons learned from bugs in models of human history](https://www.sciencedirect.com/science/article/pii/S000292972030286X).
+*American Journal of Human Genetics* 107(4), 583-588.
 
 Dominic Nelson, Jerome Kelleher, **Aaron P Ragsdale**,  Gil McVean, Simon Gravel, 2020.
 [Accounting for long-range correlations in genome-wide simulations of large cohorts](https://doi.org/10.1371/journal.pgen.1008619).
