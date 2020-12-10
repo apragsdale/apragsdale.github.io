@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Etc."
+title: "Et cetera"
 header-img: "img/Banner6.jpg"
 ---
 
-#### Et cetera
-
-This page clearly in progress.
+<p style="text-align: center"><i>If the human creature will not understand Relativity, very well; but they must understand Relatedness.</i><br>
+Ursula K. Le Guin<br>Direction of the Road
+</p>
