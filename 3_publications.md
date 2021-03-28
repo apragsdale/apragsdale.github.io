@@ -6,17 +6,24 @@ header-img: "img/Banner3.jpg"
 
 ### Preprints
 
+**Aaron P. Ragsdale**, 2021. [Can we distinguish modes of selective interactions using linkage disequilibrium?](https://www.biorxiv.org/content/10.1101/2021.03.25.437004v1).
+*BioRxiv*, doi: 10.1101/2021.03.25.437004.
+
+Kevin A. Bird, Michael A. Hardigan, **Aaron P. Ragsdale**, Steven J. Knapp, Robert VanBuren, Patrick P. Edger, 2021.
+[Diversification, Spread, and Admixture of Octoploid Strawberry in the Western Hemisphere](https://www.biorxiv.org/content/10.1101/2021.03.08.434492v2).
+*BioRxiv*, doi: 10.1101/2021.03.08.434492.
+
 Shadi Zabad, **Aaron P. Ragsdale**, Rosie Sun, Yue Li, Simon Gravel, 2019.
 [Assumptions about frequency-dependent architectures of complex traits bias measures of functional enrichment](https://www.biorxiv.org/content/10.1101/2020.10.23.352427).
 *BioRxiv*, doi: 10.1101/2020.10.23.352427.
 
-Alyssa Lyn Fortier, Alec J Coffman, Travis J Struck, Megan N Irby, Jose E L Burguete, **Aaron P Ragsdale**, Ryan N Gutenkunst, 2019.
-[DFEnitely different: Genome-wide characterization of differences in mutation fitness effects between populations](https://doi.org/10.1101/703918).
+Xin Huang, Alyssa Lyn Fortier, Alec J. Coffman, Travis J. Struck, Megan N. Irby, Jose E. Léon-Burguete, **Aaron P. Ragsdale**, Ryan N. Gutenkunst, 2019.
+[2019. Inferring genome-wide correlations of mutation fitness effects between populations](https://doi.org/10.1101/703918v2).
 *BioRxiv*, doi: 10.1101/703918.
 
 ### Articles  
 
-[The PopSim Consortium](https://github.com/popsim-consortium) (Adrion et al.), 2019.
+[The PopSim Consortium](https://github.com/popsim-consortium) (Adrion et al.), 2020.
 [A community-maintained standard library of population genetic models](https://elifesciences.org/articles/54967).
 *eLife* 9, e54967.
 
