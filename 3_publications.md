@@ -18,7 +18,7 @@ Shadi Zabad, **Aaron P. Ragsdale**, Rosie Sun, Yue Li, Simon Gravel, 2020.
 *BioRxiv*, doi: 10.1101/2020.10.23.352427.
 
 Xin Huang, Alyssa Lyn Fortier, Alec J. Coffman, Travis J. Struck, Megan N. Irby, Jose E. Léon-Burguete, **Aaron P. Ragsdale**, Ryan N. Gutenkunst, 2019.
-[2019. Inferring genome-wide correlations of mutation fitness effects between populations](https://doi.org/10.1101/703918v2).
+[Inferring genome-wide correlations of mutation fitness effects between populations](https://www.biorxiv.org/content/10.1101/703918v2).
 *BioRxiv*, doi: 10.1101/703918.
 
 ### Articles  
