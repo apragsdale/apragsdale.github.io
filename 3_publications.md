@@ -13,8 +13,8 @@ Kevin A. Bird, Michael A. Hardigan, **Aaron P. Ragsdale**, Steven J. Knapp, Robe
 [Diversification, Spread, and Admixture of Octoploid Strawberry in the Western Hemisphere](https://www.biorxiv.org/content/10.1101/2021.03.08.434492v2).
 *BioRxiv*, doi: 10.1101/2021.03.08.434492.
 
-Shadi Zabad, **Aaron P. Ragsdale**, Rosie Sun, Yue Li, Simon Gravel, 2019.
-[Assumptions about frequency-dependent architectures of complex traits bias measures of functional enrichment](https://www.biorxiv.org/content/10.1101/2020.10.23.352427).
+Shadi Zabad, **Aaron P. Ragsdale**, Rosie Sun, Yue Li, Simon Gravel, 2020.
+[Assumptions about frequency-dependent architectures of complex traits bias measures of functional enrichment](https://www.biorxiv.org/content/10.1101/2020.10.23.352427v1).
 *BioRxiv*, doi: 10.1101/2020.10.23.352427.
 
 Xin Huang, Alyssa Lyn Fortier, Alec J. Coffman, Travis J. Struck, Megan N. Irby, Jose E. Léon-Burguete, **Aaron P. Ragsdale**, Ryan N. Gutenkunst, 2019.
