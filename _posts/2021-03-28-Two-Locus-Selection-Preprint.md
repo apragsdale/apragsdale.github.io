@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New preprint 
+title: New preprint on selective interactions and LD
 ---
 
 In my latest preprint on
