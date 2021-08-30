@@ -4,13 +4,19 @@ title: "CV"
 header-img: "img/Banner4.jpg"
 ---
 
-### Research Positions
+Assistant Professor, [Dept. of Integrative Biology](https://integrativebiology.wisc.edu/)  
+University of Wisconsin--Madison  
+August 2021 -- present
 
-Postdoctoral Researcher, August 2020 -- August 2021.
+---
+
+### Previous research positions
+
+Postdoctoral Researcher, August 2020 -- August 2021.  
 [Andres Moreno lab](http://www.morenolab.org/),
 Langebio, Cinvestav, Irapuato.
 
-Postdoctoral Fellow, March 2017 -- August 2020. 
+Postdoctoral Researcher, March 2017 -- August 2020.  
 [Simon Gravel lab](http://simongravel.lab.mcgill.ca),
 Department of Human Genetics, McGill University, Canada.
 
