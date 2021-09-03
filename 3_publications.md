@@ -9,19 +9,31 @@ header-img: "img/Banner3.jpg"
 **Aaron P. Ragsdale**, 2021. [Can we distinguish modes of selective interactions using linkage disequilibrium?](https://www.biorxiv.org/content/10.1101/2021.03.25.437004v1).
 *BioRxiv*, doi: 10.1101/2021.03.25.437004.
 
+Franz Baumdicker, Gertjan Bisschop, Daniel Goldstein, Graham Gower, **Aaron P. Ragsdale**, Georgia Tsambos, Sha Zhu, (24 more authors), Jerome Kelleher, 2021.
+[Efficient ancestry and mutation simulation with msprime 1.0](https://www.biorxiv.org/content/10.1101/2021.08.31.457499v1).
+BioRxiv, doi: 10.1101/2021.08.31.457499.
+
 Kevin A. Bird, Michael A. Hardigan, **Aaron P. Ragsdale**, Steven J. Knapp, Robert VanBuren, Patrick P. Edger, 2021.
 [Diversification, Spread, and Admixture of Octoploid Strawberry in the Western Hemisphere](https://www.biorxiv.org/content/10.1101/2021.03.08.434492v2).
 *BioRxiv*, doi: 10.1101/2021.03.08.434492.
 
-Shadi Zabad, **Aaron P. Ragsdale**, Rosie Sun, Yue Li, Simon Gravel, 2020.
-[Assumptions about frequency-dependent architectures of complex traits bias measures of functional enrichment](https://www.biorxiv.org/content/10.1101/2020.10.23.352427v1).
-*BioRxiv*, doi: 10.1101/2020.10.23.352427.
+### Articles  
+
+William S. DeWitt, Kameron Decker Harris, **Aaron P. Ragsdale**, Kelley Harris, 2021.
+[Nonparametric coalescent inference of mutation spectrum history and demography](https://www.pnas.org/content/118/21/e2013798118).
+*Proceedings of the National Academy of Sciences (USA)*, 118(21), e2013798118.
+
+Alex C. McAlvay, **Aaron P. Ragsdale**, Makenzie E. Mabry, Xinshuai Qi, Kevin A. Bird, Pablo Velaso, Hong An, J. Chris Pires, Eve Emshwiller, 2021.
+[*Brassica rapa* domestication: Untangling wild and feral forms and convergence of crop morphotypes](https://academic.oup.com/mbe/article/38/8/3358/6261082).
+*Molecular Biology and Evolution* 38(8), 3358-3372.
 
 Xin Huang, Alyssa Lyn Fortier, Alec J. Coffman, Travis J. Struck, Megan N. Irby, Jose E. Léon-Burguete, **Aaron P. Ragsdale**, Ryan N. Gutenkunst, 2019.
-[Inferring genome-wide correlations of mutation fitness effects between populations](https://www.biorxiv.org/content/10.1101/703918v2).
-*BioRxiv*, doi: 10.1101/703918.
+[Inferring genome-wide correlations of mutation fitness effects between populations](https://academic.oup.edu/mbe/advance-article/doi/10.1093/molbev/msab162/6287068).
+*Molecular Biology and Evolution*, msab162.
 
-### Articles  
+Shadi Zabad, **Aaron P. Ragsdale**, Rosie Sun, Yue Li, Simon Gravel, 2021.
+[Assumptions about frequency-dependent architectures of complex traits bias measures of functional enrichment](https://onlinelibrary.wiley.com/doi/abs/10.1002/gepi.22388).
+*Genetic Epidemiology* 45(6), 621-632.
 
 [The PopSim Consortium](https://github.com/popsim-consortium) (Adrion et al.), 2020.
 [A community-maintained standard library of population genetic models](https://elifesciences.org/articles/54967).

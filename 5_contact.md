@@ -4,14 +4,14 @@ title: "Contact"
 header-img: "img/Banner4.jpg"
 ---
 
-Email: aaron.ragsdale (at) mail.mcgill.ca
+Email: apragsdale (at) wisc.edu
 
-You can also follow the links at the bottom of any page to find my GitHub and Twitter.  
+You can also follow the links at the bottom of any page to find my GitHub and
+Twitter.
 
 ___  
 
-Department of Human Genetics  
-McGill University  
-3640 rue University  
-Montreal, QC H3A 0C7  
-Canada
+Department of Integrative Biology  
+University of Madison-Wisconsin  
+Birge Hall, 334  
+Madison, WI, USA
