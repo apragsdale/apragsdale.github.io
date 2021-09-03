@@ -2,10 +2,12 @@
 layout: page
 title: "Research"
 description: ""
-header-img: "img/Banner3.jpg"
+header-img: "img/Banner0.jpg"
 ---
 
-This page in progress
+My research 
+
+---
 
 ### Deep population structure and human origins
  - single origin vs reticulated history

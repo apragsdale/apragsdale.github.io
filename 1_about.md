@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About Me"
-header-img: "img/Banner0.jpg"
+header-img: "img/Banner4.jpg"
 ---
 
 <p style="text-align: center"><i>If the human creature will not understand Relativity, very  well; but they must understand Relatedness.</i><br>

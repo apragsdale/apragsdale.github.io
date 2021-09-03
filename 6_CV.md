@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "CV"
-header-img: "img/Banner4.jpg"
+header-img: "img/Banner0.jpg"
 ---
 
 Assistant Professor, [Dept. of Integrative Biology](https://integrativebiology.wisc.edu/)  
