@@ -30,16 +30,18 @@ data.
 - Deep population structure and human origins
 - Demographic history of admixed populations
 - Inference of dominance and epistatic interactions from genetic data
-- The impact of natural selection on diversity statistics and evolutionary dynamics
-- Theoretical and computational approaches for diversity statistics
+- The impact of natural selection on diversity statistics and evolutionary
+  dynamics
+- Theoretical and computational approaches for diversity statistics and
+  simulation
 
 ___
 
 ### Collaborators
 
-- [Simon Gravel](https://), McGill University
-- [Brenna Henn](https://), UC Davis
-- [Andres Moreno](https://), LANGEBIO-Cinvestav
-- [Kevin Thornton](https://), UC Irvine
+- [Simon Gravel](https://simongravel.lab.mcgill.ca/Home.html), McGill University
+- [Brenna Henn](http://hennlab.ucdavis.edu/), UC Davis
+- [Andres Moreno](http://www.morenolab.org/), LANGEBIO-Cinvestav
+- [Kevin Thornton](http://www.molpopgen.org/), UC Irvine
 
 ___

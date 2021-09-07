@@ -14,9 +14,9 @@ approaches, simulations, and application to large-scale sequencing datasets to m
 inferences about evolutionary and demographic history from data.
 
 In Fall 2021, I joined the Department of Integrative Biology at the University
-of Wisconsin in Madison. Stay tuned for updates, and check out
-[opportunities](2_opportunities.html) to join our group as an undergraduate or
-graduate student or post-doc.
+of Wisconsin in Madison. Stay tuned for updates, and check out [opportunities
+to join](2_join.html) our group as an undergraduate or graduate student or
+post-doc.
 
 From August 2020 to August 2021, I was a post-doc in the [Moreno
 Lab](http://www.morenolab.org/) at Langebio-Cinvestav in Irapuato, Mexico. From
