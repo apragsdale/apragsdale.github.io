@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Join"
-header-img: "img/Banner6.jpg"
+header-img: "img/Banner3.jpg"
 ---
 
 We have projects for students (both graduate and undergraduate) and postdocs
@@ -19,5 +19,3 @@ Biology](https://ibio.wisc.edu), and we accept graduate students through the
 Program](https://integrativebiology.wisc.edu/prospective-students/). If you are
 interested in joining the group or learning more about positions and potential
 projects, please [email me](mailto:apragsdale@wisc.edu).
-
-

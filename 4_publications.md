@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Publications"
-header-img: "img/Banner5.jpg"
+header-img: "img/Banner4.jpg"
 ---
 
 ### Preprints
