@@ -43,5 +43,3 @@ data.
 - [Brenna Henn](http://hennlab.ucdavis.edu/), UC Davis
 - [Andres Moreno](http://www.morenolab.org/), LANGEBIO-Cinvestav
 - [Kevin Thornton](http://www.molpopgen.org/), UC Irvine
-
----

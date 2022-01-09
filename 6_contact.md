@@ -6,14 +6,9 @@ header-img: "img/Banner6.jpg"
 
 Email: apragsdale (at) wisc.edu
 
-You can also follow the links at the bottom of any page to find my GitHub and
-Twitter.
-
----
-
 Department of Integrative Biology  
 University of Madison-Wisconsin  
-447 Birge Hall
+447 Birge Hall  
 Madison, WI, USA
 
 ---
