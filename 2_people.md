@@ -4,9 +4,9 @@ title: "People"
 header-img: "img/Banner2.jpg"
 ---
 
-Note: To be updated with lab members, instead of my old "about me" page.
+## Current group members
 
-___
+<br>
 
 <div style="float: left; padding-right: 25px; padding-bottom: 25px">
 	<a href="http://apragsdale.github.io/img/aaron-ragsdale.jpg"><img src="/img/aaron-ragsdale.jpg" width="200" alt="Aaron Ragsdale" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
@@ -24,26 +24,49 @@ Gutenkunst](http://gutengroup.mcb.arizona.edu/) at the University of Arizona.
 <div style="float: left; padding-right:25px; padding-bottom: 25px">
     <a href="httep://apragsdale.github.io/img/nick-collier.jpg"><img src="/img/nick-collier.jpg" width="200" alt="Nick Collier" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
 </div>
-**Nick Collier**, undergraduate researcher  
+**Nick Collier**, Undergraduate Researcher  
 I'm Nick, a sophomore studying biology and linguistics with a focus on
 evolutionary biology. I'm interested in evolution and anthropology, and I have
 strong extracurricular interests in art and human history. I'm currently
 working on modelling how non-random mating perturbs estimates of population
 admixture.
 
+<br> <br> 
+
 ---
 
 <div style="float: left; padding-right:25px; padding-bottom: 25px">
     <a href="httep://apragsdale.github.io/img/bucky-badger.svg"><img src="/img/bucky-badger.svg" width="200" alt="Jake Hamburg" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
 </div>
-**Jake Hamburg**, undergraduate researcher  
+**Jake Hamburg**, Undergraduate Researcher  
+
+<br> <br> <br> <br> <br> <br> <br> 
 
 ---
 
 <div style="float: left; padding-right:25px; padding-bottom: 25px">
     <a href="httep://apragsdale.github.io/img/vasudha-khanna.jpg"><img src="/img/vasudha-khanna.jpg" width="200" alt="Vasudha Khanna" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
 </div>
-**Vasudha Khanna**, undergraduate researcher  
+**Vasudha Khanna**, Undergraduate Researcher  
 I'm Vasudha, I am double majoring in CS and Data Science. My favorite programming
 language is python. I am a coffeeholic who loves to hit the gym and dance.
 
+<br> <br>
+
+---
+
+<div style="float: left; padding-right:25px; padding-bottom: 25px">
+    <a href="httep://apragsdale.github.io/img/bucky-badger.svg"><img src="/img/bucky-badger.svg" width="200" alt="Renee Li" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
+</div>
+**Renee Li**, Undergraduate Researcher  
+
+<br> <br> <br> <br> <br> <br> <br>
+
+---
+
+<div style="float: left; padding-right:25px; padding-bottom: 25px">
+    <a href="httep://apragsdale.github.io/img/bucky-badger.svg"><img src="/img/bucky-badger.svg" width="200" alt="Linda Zeng" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
+</div>
+**Linda Zeng**, Undergraduate Researcher  
+
+<br> <br> <br> <br> <br> <br> <br>
