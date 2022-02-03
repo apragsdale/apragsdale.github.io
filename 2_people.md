@@ -12,12 +12,14 @@ header-img: "img/Banner2.jpg"
 	<a href="http://apragsdale.github.io/img/aaron-ragsdale.jpg"><img src="/img/aaron-ragsdale.jpg" width="200" alt="Aaron Ragsdale" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
 </div>
 **Aaron Ragsdale**, Assistant Professor  
-Aaron joined the Dept. of Integrative Biology at UW-Madison in Fall 2021. He is
-interested in the evolutionary and historical processes that shape molecular
-and organismal variation. Prior to Wisconsin, he did two postdocs with [Simon
-Gravel](http://simongravel.lab.mcgill.ca/Home.html) and [Andres
+Aaron joined the Deptartment of Integrative Biology at UW-Madison in Fall 2021.
+He is interested in the evolutionary and historical processes that shape
+molecular and organismal variation. Prior to Wisconsin, he did two postdocs
+with [Simon Gravel](http://simongravel.lab.mcgill.ca/Home.html) and [Andres
 Moreno](http://www.morenolab.org/), and was a graduate student with [Ryan
 Gutenkunst](http://gutengroup.mcb.arizona.edu/) at the University of Arizona.
+
+<br>
 
 ---
 
@@ -28,19 +30,19 @@ Gutenkunst](http://gutengroup.mcb.arizona.edu/) at the University of Arizona.
 I'm Nick, a sophomore studying biology and linguistics with a focus on
 evolutionary biology. I'm interested in evolution and anthropology, and I have
 strong extracurricular interests in art and human history. I'm currently
-working on modelling how non-random mating perturbs estimates of population
+working on modelling how non-random mating biases estimates of population
 admixture.
 
-<br> <br> 
+<br> <br>
 
 ---
 
 <div style="float: left; padding-right:25px; padding-bottom: 25px">
-    <a href="httep://apragsdale.github.io/img/bucky-badger.svg"><img src="/img/bucky-badger.svg" width="200" alt="Jake Hamburg" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
+    <a href="httep://apragsdale.github.io/img/jake-hamburg.jpg"><img src="/img/jake-hamburg.jpg" width="200" alt="Jake Hamburg" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
 </div>
 **Jake Hamburg**, Undergraduate Researcher  
 
-<br> <br> <br> <br> <br> <br> <br> 
+<br> <br> <br> <br> <br> <br> 
 
 ---
 
@@ -56,11 +58,16 @@ language is python. I am a coffeeholic who loves to hit the gym and dance.
 ---
 
 <div style="float: left; padding-right:25px; padding-bottom: 25px">
-    <a href="httep://apragsdale.github.io/img/bucky-badger.svg"><img src="/img/bucky-badger.svg" width="200" alt="Renee Li" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
+    <a href="httep://apragsdale.github.io/img/renee-li.jpg"><img src="/img/renee-li.jpg" width="200" alt="Renee Li" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
 </div>
 **Renee Li**, Undergraduate Researcher  
+Renee (Runxuan Li) is a sophomore student studying data science in the
+University Wisconsin-Madison. She is interested in exploring different
+possibilities and has a wide range of interests. She’s currently exploring
+patterns of diversity in fruit flies to learn about fine-scale distributions of
+selective effects.
 
-<br> <br> <br> <br> <br> <br> <br>
+<br>
 
 ---
 
