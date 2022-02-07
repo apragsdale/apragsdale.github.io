@@ -72,8 +72,12 @@ selective effects.
 ---
 
 <div style="float: left; padding-right:25px; padding-bottom: 25px">
-    <a href="httep://apragsdale.github.io/img/bucky-badger.svg"><img src="/img/bucky-badger.svg" width="200" alt="Linda Zeng" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
+    <a href="httep://apragsdale.github.io/img/linda-zeng.jpg"><img src="/img/linda-zeng.jpg" width="200" alt="Linda Zeng" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
 </div>
 **Linda Zeng**, Undergraduate Researcher  
+Linda (Linxiu) Zeng is a junior student at UW--Madison, majoring in Computer
+Science, Data Science, and Math, with an intended graduation date of 2023
+spring. Her field of interest includes genealogical studies related to 2-locus
+linkage disequilibrium, accessibility, and virtual reality.
 
-<br> <br> <br> <br> <br> <br> <br>
+<br> <br> <br>
