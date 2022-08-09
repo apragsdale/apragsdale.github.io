@@ -12,14 +12,41 @@ header-img: "img/Banner2.jpg"
 	<a href="http://apragsdale.github.io/img/aaron-ragsdale.jpg"><img src="/img/aaron-ragsdale.jpg" width="200" alt="Aaron Ragsdale" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
 </div>
 **Aaron Ragsdale**, Assistant Professor  
-Aaron joined the Deptartment of Integrative Biology at UW-Madison in Fall 2021.
+Aaron joined the Department of Integrative Biology at UW-Madison in Fall 2021.
 He is interested in the evolutionary and historical processes that shape
-molecular and organismal variation. Prior to Wisconsin, he did two postdocs
+molecular and organismal variation. Prior to Wisconsin, he had postdocs
 with [Simon Gravel](http://simongravel.lab.mcgill.ca/Home.html) and [Andres
 Moreno](http://www.morenolab.org/), and was a graduate student with [Ryan
 Gutenkunst](http://gutengroup.mcb.arizona.edu/) at the University of Arizona.
 
-<br>
+Email: apragsdale[at]wisc.edu
+
+---
+
+<div style="float: left; padding-right:25px; padding-bottom: 25px">
+    <a href="httep://apragsdale.github.io/img/bucky-badger.svg"><img src="/img/bucky-badger.svg" width="200" alt="Gustavo Barroso" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
+</div>
+Gustavo Barosso, Postdoctoral Researcher  
+
+<br><br><br><br><br><br>
+
+---
+
+<div style="float: left; padding-right:25px; padding-bottom: 25px">
+    <a href="httep://apragsdale.github.io/img/bucky-badger.svg"><img src="/img/bucky-badger.svg" width="200" alt="Nathan Anderson" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
+</div>
+Nathan Anderson, Graduate Student  
+
+<br><br><br><br><br><br>
+
+---
+
+<div style="float: left; padding-right:25px; padding-bottom: 25px">
+    <a href="httep://apragsdale.github.io/img/bucky-badger.svg"><img src="/img/bucky-badger.svg" width="200" alt="Lloyd Kirk" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
+</div>
+Lloyd Kirk, Graduate Student  
+
+<br><br><br><br><br><br>
 
 ---
 
@@ -34,15 +61,6 @@ working on modelling how non-random mating biases estimates of population
 admixture.
 
 <br> <br>
-
----
-
-<div style="float: left; padding-right:25px; padding-bottom: 25px">
-    <a href="httep://apragsdale.github.io/img/jake-hamburg.jpg"><img src="/img/jake-hamburg.jpg" width="200" alt="Jake Hamburg" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
-</div>
-**Jake Hamburg**, Undergraduate Researcher  
-
-<br> <br> <br> <br> <br> <br> 
 
 ---
 
@@ -81,3 +99,9 @@ spring. Her field of interest includes genealogical studies related to 2-locus
 linkage disequilibrium, accessibility, and virtual reality.
 
 <br> <br> <br>
+
+---
+
+## Past members
+
+Jake Hamburg, Undergraduate Researcher (Spring, 2022)
