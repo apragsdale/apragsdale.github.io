@@ -25,19 +25,6 @@ Email: apragsdale[at]wisc.edu
 ---
 
 <div style="float: left; padding-right:25px; padding-bottom: 25px">
-    <a href="httep://apragsdale.github.io/img/gustavo-barroso.jpeg"><img src="/img/gustavo-barroso.jpeg" width="200" alt="Gustavo Barroso" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
-</div>
-**Gustavo Barosso**, Postdoctoral Researcher  
-I want to understand how population-level processes interact with
-molecular-level processes to shape patterns of genetic and phenotypic
-variation. To this end, I develop probabilistic models based on population
-genetics theory and apply them to both simulated and empirical datasets from
-a variety of species. My long-term goal is to build more realistic models of
-nature.
-
----
-
-<div style="float: left; padding-right:25px; padding-bottom: 25px">
     <a href="httep://apragsdale.github.io/img/bucky-badger.svg"><img src="/img/bucky-badger.svg" width="200" alt="Nathan Anderson" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
 </div>
 **Nathan Anderson**, Graduate Student  
@@ -47,11 +34,15 @@ nature.
 ---
 
 <div style="float: left; padding-right:25px; padding-bottom: 25px">
-    <a href="httep://apragsdale.github.io/img/bucky-badger.svg"><img src="/img/bucky-badger.svg" width="200" alt="Lloyd Kirk" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
+    <a href="httep://apragsdale.github.io/img/gustavo-barroso.jpeg"><img src="/img/gustavo-barroso.jpeg" width="200" alt="Gustavo Barroso" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
 </div>
-**Lloyd Kirk**, Graduate Student  
-
-<br><br><br><br><br><br>
+**Gustavo Barosso**, Postdoctoral Researcher  
+I want to understand how population-level processes interact with
+molecular-level processes to shape patterns of genetic and phenotypic
+variation. To this end, I develop probabilistic models based on population
+genetics theory and apply them to both simulated and empirical datasets from
+a variety of species. My long-term goal is to build more realistic models of
+nature.
 
 ---
 
@@ -77,6 +68,15 @@ I'm Vasudha, I am double majoring in CS and Data Science. My favorite programmin
 language is python. I am a coffeeholic who loves to hit the gym and dance.
 
 <br> <br>
+
+---
+
+<div style="float: left; padding-right:25px; padding-bottom: 25px">
+    <a href="httep://apragsdale.github.io/img/bucky-badger.svg"><img src="/img/bucky-badger.svg" width="200" alt="Lloyd Kirk" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
+</div>
+**Lloyd Kirk**, Graduate Student  
+
+<br><br><br><br><br><br>
 
 ---
 
@@ -109,4 +109,5 @@ linkage disequilibrium, accessibility, and virtual reality.
 
 ## Past members
 
-Jake Hamburg, Undergraduate Researcher (Spring, 2022)
+Linda Zeng, Undergraduate Researcher (Fall 2021-Spring 2023)
+Jake Hamburg, Undergraduate Researcher (Spring 2022)
