@@ -6,27 +6,40 @@ header-img: "img/Banner4.jpg"
 
 ### Preprints
 
-**Aaron P. Ragsdale**, Timothy D. Weaver, Elizabeth G. Atkinson, Eileen Hoal,
-Marlo Moller, Brenna M. Henn, Simon Gravel, 2022.
-[A weakly structured stem for human origins in Africa](https://www.biorxiv.org/content/10.1101/2022.03.23.485528v3.abstract).
-*BioRxiv*, doi: 10.1101/2022.03.23.485528.
+Santiago G. Medina-Muñoz, Diego Ortega-Del Vecchyo, Luis Pablo Cruz-Hervert, Leticia Ferreyra-Reyes,
+Lourdes Garcia-Garcia, Andrés Moreno-Estrada, **Aaron P. Ragsdale**, 2023.
+[Demographic Modeling of Admixed Latin American Populations from Whole Genomes](https://www.biorxiv.org/content/10.1101/2023.03.06.531060v1.abstract).
+*BioRxiv*, doi: 10.1101/2023.03.06.531060.
 
 Mashaal Sohail, Amanda Y. Chong, Consuelo D. Quinto-Cortes, María J. Palma-Martinez,
 **Aaron Ragsdale**, Santiago G. Medina-Muñoz, ... Andrés Moreno-Estrada, 2022.
 [Nationwide genomic biobank in Mexico unravels demographic history and complex trait architecture from 6,057 individuals](https://www.biorxiv.org/content/10.1101/2022.07.11.499652v2.abstract).
 *BioRxiv*, doi: 10.1101/2022.07.11.499652.
 
-Graham R. Gower, **Aaron P. Ragsdale**, Ryan N. Gutenkunst, Matthew Hartfield,
-Ekaterina Noskova, Travis J. Struck, Jerome Kelleher, Kevin Thornton, 2022.
-[Demes: a standard format for demographic models](https://www.biorxiv.org/content/10.1101/2022.05.31.494112v1.abstract).
-*BioRxiv*, doi: 10.1101/2022.05.31.494112.
-
 ### Articles  
+
+**Aaron P. Ragsdale**, Timothy D. Weaver, Elizabeth G. Atkinson, Eileen Hoal,
+Marlo Moller, Brenna M. Henn, Simon Gravel, 2023.
+[A weakly structured stem for human origins in Africa](https://www.nature.com/articles/s41586-023-06055-y).
+*Nature*, 617(755-763).
+
+**Aaron P. Ragsdale**, Kevin R. Thornton, 2023.
+[Multiple sources of uncertainty confound inference of historical human generation times](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msad160/7224425).
+*Molecular Biology and Evolution*, doi: 10.1093/molbev/msad160.
+
+M Elise Lauterbur *et al*, 2023.
+[Expanding the stdpopsim species catalog, and lessons learned for realistic genome simulations](https://elifesciences.org/articles/84874).
+*eLife*, doi: 10.7554/eLife.84874.
+
+Graham R. Gower, **Aaron P. Ragsdale**, Gertjan Bisschop, Ryan N. Gutenkunst, Matthew Hartfield,
+Ekaterina Noskova, Stephan Schiffels, Travis J. Struck, Jerome Kelleher, Kevin Thornton, 2022.
+[Demes: a standard format for demographic models](https://academic.oup.com/genetics/article/222/3/iyac131/6730747).
+*Genetics*, 222(3), iyac131.
 
 **Aaron P. Ragsdale**, 2022. [Local fitness and epistatic effects lead to distinct patterns of linkage disequilibrium in protein-coding genes](https://academic.oup.com/genetics/advance-article-abstract/doi/10.1093/genetics/iyac097/6613932).
 *Genetics*, 221(4), iyac097.
 
-Franz Baumdicker, Gertjan Bisschop, Daniel Goldstein, Graham Gower, **Aaron P. Ragsdale**, Georgia Tsambos, Sha Zhu, (24 more authors), Jerome Kelleher, 2021.
+Franz Baumdicker, Gertjan Bisschop, Daniel Goldstein, Graham Gower, **Aaron P. Ragsdale**, Georgia Tsambos, Sha Zhu, (24 more authors), Jerome Kelleher, 2022.
 [Efficient ancestry and mutation simulation with msprime 1.0](https://academic.oup.com/genetics/article/220/3/iyab229/6460344).
 *Genetics*, 220(3), iyab229.
 
