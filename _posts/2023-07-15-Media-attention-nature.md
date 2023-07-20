@@ -4,7 +4,7 @@ title: Media coverage of "A weakly structured stem for human origins in Africa"
 ---
 
 Some nice perspectives and summaries have been published covering our recent article
-([A weakly structured stem for human origins in Africa]()).
+([A weakly structured stem for human origins in Africa](https://www.nature.com/articles/s41586-023-06055-y)).
 
 First, an accompanying perspective by Elleanor Scerri:
 [One species, many roots?](https://www.nature.com/articles/s41559-023-02080-2)
