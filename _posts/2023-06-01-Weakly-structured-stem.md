@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our article on deep population structure in Africa is published in _Nature_
+title: Our article on deep population structure in Africa is published in Nature
 ---
 
 We are excited to share that our work on understanding ancient population structure
