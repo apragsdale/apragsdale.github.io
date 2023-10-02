@@ -25,15 +25,6 @@ Email: apragsdale[at]wisc.edu
 ---
 
 <div style="float: left; padding-right:25px; padding-bottom: 25px">
-    <a href="httep://apragsdale.github.io/img/bucky-badger.svg"><img src="/img/bucky-badger.svg" width="200" alt="Nathan Anderson" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
-</div>
-**Nathan Anderson**, Graduate Student  
-
-<br><br><br><br><br><br>
-
----
-
-<div style="float: left; padding-right:25px; padding-bottom: 25px">
     <a href="httep://apragsdale.github.io/img/gustavo-barroso.jpeg"><img src="/img/gustavo-barroso.jpeg" width="200" alt="Gustavo Barroso" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
 </div>
 **Gustavo Barosso**, Postdoctoral Researcher  
@@ -43,6 +34,17 @@ variation. To this end, I develop probabilistic models based on population
 genetics theory and apply them to both simulated and empirical datasets from
 a variety of species. My long-term goal is to build more realistic models of
 nature.
+
+Email: valadaresbar[at]wisc.edu
+
+---
+
+<div style="float: left; padding-right:25px; padding-bottom: 25px">
+    <a href="httep://apragsdale.github.io/img/bucky-badger.svg"><img src="/img/bucky-badger.svg" width="200" alt="Nathan Anderson" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
+</div>
+**Nathan Anderson**, Graduate Student  
+
+<br><br><br><br><br><br>
 
 ---
 
