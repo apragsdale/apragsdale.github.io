@@ -44,7 +44,26 @@ Email: valadaresbar[at]wisc.edu
 </div>
 **Nathan Anderson**, Graduate Student  
 
-<br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
+
+---
+
+<div style="float: left; padding-right:25px; padding-bottom: 25px">
+    <a href="httep://apragsdale.github.io/img/lloyd-kirk.jpeg"><img src="/img/lloyd-kirk.jpeg" width="200" alt="Lloyd Kirk" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
+</div>
+**Lloyd Kirk**, Graduate Student  
+
+<br><br><br><br>
+
+---
+
+<div style="float: left; padding-right:25px; padding-bottom: 25px">
+    <a href="httep://apragsdale.github.io/img/santiago-medina.jpeg"><img src="/img/santiago-medina.jpeg" width="200" alt="Santiago Medina" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
+</div>
+**Santiago Medina**, Joint graduate student with the
+[Andrés Moreno Lab](http://www.morenolab.org/)
+at [LANGEBIO-Cinvestav](https://www.langebio.cinvestav.mx/).  
+I am a computational biologist. I received my bachelor’s in agro-genomic sciences from the National Autonomous University of Mexico (UNAM). I am passionate about evolutionary genetics, my research centers on understanding how demographic history shapes genetic diversity in Native American populations. I love learning mathematics, mainly probability theory. Outside research, I enjoy meeting with friends, hiking, and practicing Brazilian Jiu-Jitsu.
 
 ---
 
@@ -63,26 +82,6 @@ admixture.
 ---
 
 <div style="float: left; padding-right:25px; padding-bottom: 25px">
-    <a href="httep://apragsdale.github.io/img/vasudha-khanna.jpg"><img src="/img/vasudha-khanna.jpg" width="200" alt="Vasudha Khanna" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
-</div>
-**Vasudha Khanna**, Undergraduate Researcher  
-I'm Vasudha, I am double majoring in CS and Data Science. My favorite programming
-language is python. I am a coffeeholic who loves to hit the gym and dance.
-
-<br> <br>
-
----
-
-<div style="float: left; padding-right:25px; padding-bottom: 25px">
-    <a href="httep://apragsdale.github.io/img/bucky-badger.svg"><img src="/img/bucky-badger.svg" width="200" alt="Lloyd Kirk" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
-</div>
-**Lloyd Kirk**, Graduate Student  
-
-<br><br><br><br><br><br>
-
----
-
-<div style="float: left; padding-right:25px; padding-bottom: 25px">
     <a href="httep://apragsdale.github.io/img/renee-li.jpg"><img src="/img/renee-li.jpg" width="200" alt="Renee Li" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
 </div>
 **Renee Li**, Undergraduate Researcher  
@@ -96,20 +95,8 @@ selective effects.
 
 ---
 
-<div style="float: left; padding-right:25px; padding-bottom: 25px">
-    <a href="httep://apragsdale.github.io/img/linda-zeng.jpg"><img src="/img/linda-zeng.jpg" width="200" alt="Linda Zeng" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
-</div>
-**Linda Zeng**, Undergraduate Researcher  
-Linda (Linxiu) Zeng is a junior student at UW--Madison, majoring in Computer
-Science, Data Science, and Math, with an intended graduation date of 2023
-spring. Her field of interest includes genealogical studies related to 2-locus
-linkage disequilibrium, accessibility, and virtual reality.
-
-<br> <br> <br>
-
----
-
 ## Past members
 
-Linda Zeng, Undergraduate Researcher (Fall 2021-Spring 2023)
+Vasudha Khanna, Undergraduate Researcher (Fall 2021-Summer 2023)  
+Linda Zeng, Undergraduate Researcher (Fall 2021-Spring 2023)  
 Jake Hamburg, Undergraduate Researcher (Spring 2022)

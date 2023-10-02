@@ -6,17 +6,22 @@ header-img: "img/Banner4.jpg"
 
 ### Preprints
 
-Santiago G. Medina-Muñoz, Diego Ortega-Del Vecchyo, Luis Pablo Cruz-Hervert, Leticia Ferreyra-Reyes,
-Lourdes Garcia-Garcia, Andrés Moreno-Estrada, **Aaron P. Ragsdale**, 2023.
-[Demographic Modeling of Admixed Latin American Populations from Whole Genomes](https://www.biorxiv.org/content/10.1101/2023.03.06.531060v1.abstract).
-*BioRxiv*, doi: 10.1101/2023.03.06.531060.
-
 Mashaal Sohail, Amanda Y. Chong, Consuelo D. Quinto-Cortes, María J. Palma-Martinez,
 **Aaron Ragsdale**, Santiago G. Medina-Muñoz, ... Andrés Moreno-Estrada, 2022.
 [Nationwide genomic biobank in Mexico unravels demographic history and complex trait architecture from 6,057 individuals](https://www.biorxiv.org/content/10.1101/2022.07.11.499652v2.abstract).
 *BioRxiv*, doi: 10.1101/2022.07.11.499652.
 
 ### Articles  
+
+**Santiago G. Medina-Muñoz**, Diego Ortega-Del Vecchyo,
+Luis Pablo Cruz-Hervert, Leticia Ferreyra-Reyes,
+Lourdes Garcia-Garcia, Andrés Moreno-Estrada, **Aaron P. Ragsdale**, 2023.
+[Demographic Modeling of Admixed Latin American Populations from Whole Genomes](https://doi.org/10.1016/j.ajhg.2023.08.015).
+*American Journal of Human Genetics*, doi: 10.1016/j.ajhg.2023.08.015.
+
+Nigenda-Morales, Sergio F., et al., 2023.
+[The genomic footprint of whaling and isolation in fin whale populations](https://www.nature.com/articles/s41467-023-40052-z).
+*Nature Communications* 14.1: 5465.
 
 **Aaron P. Ragsdale**, Timothy D. Weaver, Elizabeth G. Atkinson, Eileen Hoal,
 Marlo Moller, Brenna M. Henn, Simon Gravel, 2023.
