@@ -44,11 +44,11 @@ Email: valadaresbar[at]wisc.edu
 ---
 
 <div style="float: left; padding-right:25px; padding-bottom: 25px">
-    <a href="httep://apragsdale.github.io/img/bucky-badger.svg"><img src="/img/bucky-badger.svg" width="200" alt="Nathan Anderson" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
+    <a href="httep://apragsdale.github.io/img/nathan-anderson.png"><img src="/img/nathan-anderson.png" width="200" alt="Nathan Anderson" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
 </div>
 **Nathan Anderson**, Graduate Student  
 
-<br><br><br><br><br><br><br>
+<br><br><br><br><br>
 
 ---
 
