@@ -4,6 +4,10 @@ title: "People"
 header-img: "img/Banner2.jpg"
 ---
 
+Are you interested in [joining](3_join.html) our research group? Check out our
+[research interests](1_research.html) and send an email to Aaron about
+opportunities.
+
 ## Current group members
 
 <br>
@@ -63,7 +67,13 @@ Email: valadaresbar[at]wisc.edu
 **Santiago Medina**, Joint graduate student with the
 [Andrés Moreno Lab](http://www.morenolab.org/)
 at [LANGEBIO-Cinvestav](https://www.langebio.cinvestav.mx/).  
-I am a computational biologist. I received my bachelor’s in agro-genomic sciences from the National Autonomous University of Mexico (UNAM). I am passionate about evolutionary genetics, my research centers on understanding how demographic history shapes genetic diversity in Native American populations. I love learning mathematics, mainly probability theory. Outside research, I enjoy meeting with friends, hiking, and practicing Brazilian Jiu-Jitsu.
+I am a computational biologist. I received my bachelor’s in agro-genomic
+sciences from the National Autonomous University of Mexico (UNAM). I am
+passionate about evolutionary genetics, and my research centers on
+understanding how demographic history shapes genetic diversity in Native
+American populations. I love learning mathematics, mainly probability theory.
+Outside research, I enjoy meeting with friends, hiking, and practicing
+Brazilian Jiu-Jitsu.
 
 ---
 
@@ -71,13 +81,11 @@ I am a computational biologist. I received my bachelor’s in agro-genomic scien
     <a href="httep://apragsdale.github.io/img/nick-collier.jpg"><img src="/img/nick-collier.jpg" width="200" alt="Nick Collier" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
 </div>
 **Nick Collier**, Undergraduate Researcher  
-I'm Nick, a sophomore studying biology and linguistics with a focus on
-evolutionary biology. I'm interested in evolution and anthropology, and I have
-strong extracurricular interests in art and human history. I'm currently
-working on modelling how non-random mating biases estimates of population
-admixture.
+I am a senior studying evolutionary biology with interests in genetics,
+evolution, and computational biology. I am enthusiastic about mathematics and
+its applications in biology.
 
-<br> <br>
+<br><br><br>
 
 ---
 
@@ -85,7 +93,7 @@ admixture.
     <a href="httep://apragsdale.github.io/img/renee-li.jpg"><img src="/img/renee-li.jpg" width="200" alt="Renee Li" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
 </div>
 **Renee Li**, Undergraduate Researcher  
-Renee (Runxuan Li) is a sophomore student studying data science in the
+Renee (Runxuan Li) is a senior studying data science at
 University Wisconsin-Madison. She is interested in exploring different
 possibilities and has a wide range of interests. She’s currently exploring
 patterns of diversity in fruit flies to learn about fine-scale distributions of
