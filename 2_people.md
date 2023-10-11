@@ -24,7 +24,7 @@ Prior to Wisconsin, I was a postdoc with both
 [Andres Moreno](http://www.morenolab.org/), and was a graduate student with
 [Ryan Gutenkunst](http://gutengroup.mcb.arizona.edu/) at the University of Arizona.
 
-Email: apragsdale[at]wisc.edu
+Email: apragsdale [at] wisc.edu
 
 ---
 
@@ -39,7 +39,7 @@ genetics theory and apply them to both simulated and empirical datasets from
 a variety of species. My long-term goal is to build more realistic models of
 nature.
 
-Email: valadaresbar[at]wisc.edu
+Email: valadaresbar [at] wisc.edu
 
 ---
 
@@ -47,8 +47,13 @@ Email: valadaresbar[at]wisc.edu
     <a href="httep://apragsdale.github.io/img/nathan-anderson.png"><img src="/img/nathan-anderson.png" width="200" alt="Nathan Anderson" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
 </div>
 **Nathan Anderson**, Graduate Student  
+I am interested in the genomic response to selection. My research focuses on
+developing Diffusion models for complex selective pressures such as
+quantitative traits in changing environments, and background selection. Before
+joining UW-Madison, I received my undergraduate in applied mathematics at Texas
+A&M University and researched phylogenetic methods under Heath Blackmon.
 
-<br><br><br><br><br>
+Email: nathan.wally.anderson [at] gmail.com
 
 ---
 
