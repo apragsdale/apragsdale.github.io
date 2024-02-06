@@ -23,6 +23,8 @@ theory, running large-scale simulations, building and maintaining
 [software](5_software.html), and inferring history from whole-genome sequencing
 data.
 
+Read our [lab guidelines and expectations](LabGuidlines/Ragsdale-Lab-Expectations.pdf).
+
 ---
 
 ### Research topics

@@ -13,6 +13,8 @@ to learn about demographic or evolutionary history. More information about our
 research and interests can be found [here](2_research.html) or by browsing our
 [recent publications](4_publications.html).
 
+Read our [lab guidelines and expectations](LabGuidlines/Ragsdale-Lab-Expectations.pdf).
+
 Our group is based in the [Department of Integrative
 Biology](https://ibio.wisc.edu), and we accept graduate students through the
 [Integrative Biology Graduate
