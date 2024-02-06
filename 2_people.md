@@ -24,7 +24,7 @@ Prior to Wisconsin, I was a postdoc with both
 [Andres Moreno](http://www.morenolab.org/), and was a graduate student with
 [Ryan Gutenkunst](http://gutengroup.mcb.arizona.edu/) at the University of Arizona.
 
-Email: apragsdale [at] wisc.edu
+Email: [apragsdale@wisc.edu](mailto:apragsdale@wisc.edu)
 
 ---
 
@@ -39,7 +39,7 @@ genetics theory and apply them to both simulated and empirical datasets from
 a variety of species. My long-term goal is to build more realistic models of
 nature.
 
-Email: valadaresbar [at] wisc.edu
+Email: [valadaresbar@wisc.edu](mailto:valadaresbar@wisc.edu)
 
 ---
 
@@ -53,7 +53,7 @@ quantitative traits in changing environments, and background selection. Before
 joining UW-Madison, I received my undergraduate in applied mathematics at Texas
 A&M University and researched phylogenetic methods under Heath Blackmon.
 
-Email: nathan.wally.anderson [at] gmail.com
+Email: [nathan.wally.anderson@gmail.com](mailto:nathan.wally.anderson@gmail.com)
 
 ---
 
@@ -61,8 +61,16 @@ Email: nathan.wally.anderson [at] gmail.com
     <a href="httep://apragsdale.github.io/img/lloyd-kirk.jpeg"><img src="/img/lloyd-kirk.jpeg" width="200" alt="Lloyd Kirk" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
 </div>
 **Lloyd Kirk**, Graduate Student  
+I am a computer enthusiast and an avid learner of statistical and population
+genetics theory, with particular interests in structural variation and its
+fitness effects. I'm currently working on methods for computing two-locus
+statistics from tree sequences. Before joining the lab, I was working in the
+clinical genetics testing industry. I did my bachelor's in Plant Sciences and
+MCD Biology at UC Santa Cruz. In my free time, I enjoy biking, cooking, and
+nerding out. You can find some of my work (and harebrained ideas) on my
+[github](http://github.com/lkirk).
 
-<br><br><br><br><br>
+Email: [lkirk2@wisc.edu](mailto:lkirk2@wisc.edu)
 
 ---
 

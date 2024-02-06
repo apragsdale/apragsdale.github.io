@@ -20,7 +20,7 @@ dynamics.
 
 Most of our projects therefore combine at least some of developing mathematical
 theory, running large-scale simulations, building and maintaining
-[software](7_software.html), and inferring history from whole-genome sequencing
+[software](5_software.html), and inferring history from whole-genome sequencing
 data.
 
 ---
@@ -39,7 +39,7 @@ data.
 
 ### Collaborators
 
-- [Simon Gravel](https://simongravel.lab.mcgill.ca/Home.html), McGill University
+- [Simon Gravel](https://gravellab.github.io/), McGill University
 - [Brenna Henn](http://hennlab.ucdavis.edu/), UC Davis
 - [Andres Moreno](http://www.morenolab.org/), LANGEBIO-Cinvestav
 - [Kevin Thornton](http://www.molpopgen.org/), UC Irvine

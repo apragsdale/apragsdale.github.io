@@ -11,7 +11,7 @@ of math and statistics although there is a wide range of possible topics, from
 development of population genetic theory to empirical analyses of genetic data
 to learn about demographic or evolutionary history. More information about our
 research and interests can be found [here](2_research.html) or by browsing our
-[recent publications](3_publications.html).
+[recent publications](4_publications.html).
 
 Our group is based in the [Department of Integrative
 Biology](https://ibio.wisc.edu), and we accept graduate students through the

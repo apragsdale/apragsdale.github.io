@@ -5,7 +5,7 @@ header-img: "img/Banner5.jpg"
 ---
 
 #### moments and moments-LD
-[link](https://bitbucket.org/simongravel/moments/src/master/):
+[link](https://github.com/MomentsLD/moments):
 Solving the diffusion equation for the allele frequency spectrum, LD, and other diversity
 statistics for evolutionary inference.
 [Associated](https://www.genetics.org/content/206/3/1549.abstract)
