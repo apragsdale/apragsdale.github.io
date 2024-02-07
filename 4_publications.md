@@ -4,20 +4,27 @@ title: "Publications"
 header-img: "img/Banner4.jpg"
 ---
 
-### Preprints
+**bold**: Ragsdale Lab members
 
-Mashaal Sohail, Amanda Y. Chong, Consuelo D. Quinto-Cortes, María J. Palma-Martinez,
-**Aaron Ragsdale**, Santiago G. Medina-Muñoz, ... Andrés Moreno-Estrada, 2022.
-[Nationwide genomic biobank in Mexico unravels demographic history and complex trait architecture from 6,057 individuals](https://www.biorxiv.org/content/10.1101/2022.07.11.499652v2.abstract).
-*BioRxiv*, doi: 10.1101/2022.07.11.499652.
+### Preprints
 
 ### Articles  
 
-**Santiago G. Medina-Muñoz**, Diego Ortega-Del Vecchyo,
+**Aaron P. Ragsdale**, 2023.
+[Human evolution: Neanderthal footprints in African genomes](https://doi.org/10.1016/j.cub.2023.10.005).
+*Current Biology*, 33(R1186–R1207).
+
+Mashaal Sohail, María J. Palma-Martinez, Amanda Y. Chong, Consuelo D. Quinto-Cortes,
+Carmina Barerena-Jonas, **Aaron Ragsdale**, Santiago G. Medina-Muñoz,
+... Andrés Moreno-Estrada, 2023.
+[Mexican Biobank advances population and medical genomics of diverse ancestries](https://www.nature.com/articles/s41586-023-06560-0).
+*Nature*, 622(775-783).
+
+Santiago G. Medina-Muñoz, Diego Ortega-Del Vecchyo,
 Luis Pablo Cruz-Hervert, Leticia Ferreyra-Reyes,
 Lourdes Garcia-Garcia, Andrés Moreno-Estrada, **Aaron P. Ragsdale**, 2023.
 [Demographic Modeling of Admixed Latin American Populations from Whole Genomes](https://doi.org/10.1016/j.ajhg.2023.08.015).
-*American Journal of Human Genetics*, doi: 10.1016/j.ajhg.2023.08.015.
+*American Journal of Human Genetics*, 110:10(1804-1816).
 
 Nigenda-Morales, Sergio F., et al., 2023.
 [The genomic footprint of whaling and isolation in fin whale populations](https://www.nature.com/articles/s41467-023-40052-z).
