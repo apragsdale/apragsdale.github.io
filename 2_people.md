@@ -44,6 +44,16 @@ Email: [valadaresbar@wisc.edu](mailto:valadaresbar@wisc.edu)
 ---
 
 <div style="float: left; padding-right:25px; padding-bottom: 25px">
+    <a href="httep://apragsdale.github.io/img/bucky-badger.svg"><img src="/img/bucky-badger.svg" width="200" alt="Epifanía Arango Isaza" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
+</div>
+**Epifanía Arango Isaza**, Postdoctoral Researcher  
+Email: [arangoisaza@wisc.edu](mailto:arangoisaza@wisc.edu)
+
+<br><br><br><br><br><br><br>
+
+---
+
+<div style="float: left; padding-right:25px; padding-bottom: 25px">
     <a href="httep://apragsdale.github.io/img/nathan-anderson.png"><img src="/img/nathan-anderson.png" width="200" alt="Nathan Anderson" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
 </div>
 **Nathan Anderson**, Graduate Student  
@@ -93,31 +103,17 @@ Brazilian Jiu-Jitsu.
 <div style="float: left; padding-right:25px; padding-bottom: 25px">
     <a href="httep://apragsdale.github.io/img/nick-collier.jpg"><img src="/img/nick-collier.jpg" width="200" alt="Nick Collier" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
 </div>
-**Nick Collier**, Undergraduate Researcher  
-I am a senior studying evolutionary biology with interests in genetics,
-evolution, and computational biology. I am enthusiastic about mathematics and
-its applications in biology.
+**Nick Collier**, postbaccalaureate researcher  
+I am interested in population genetics and systematics. I want to learn how evolutionary processes give rise to biological diversity at and above the population level. I received a bachelor's degree in evolutionary biology from UW-Madison in spring 2024.
 
 <br><br><br>
 
 ---
 
-<div style="float: left; padding-right:25px; padding-bottom: 25px">
-    <a href="httep://apragsdale.github.io/img/renee-li.jpg"><img src="/img/renee-li.jpg" width="200" alt="Renee Li" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
-</div>
-**Renee Li**, Undergraduate Researcher  
-Renee (Runxuan Li) is a senior studying data science at
-University Wisconsin-Madison. She is interested in exploring different
-possibilities and has a wide range of interests. She’s currently exploring
-patterns of diversity in fruit flies to learn about fine-scale distributions of
-selective effects.
-
-<br>
-
----
-
 ## Past members
 
+Nithya Atla, Undergraduate Researcher (Fall 2024)  
+Renee Li, Undergraduate Researcher (Fall 2021-Spring 2024)  
 Vasudha Khanna, Undergraduate Researcher (Fall 2021-Summer 2023)  
 Linda Zeng, Undergraduate Researcher (Fall 2021-Spring 2023)  
 Jake Hamburg, Undergraduate Researcher (Spring 2022)
