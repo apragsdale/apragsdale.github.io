@@ -29,6 +29,16 @@ Email: [apragsdale@wisc.edu](mailto:apragsdale@wisc.edu)
 ---
 
 <div style="float: left; padding-right:25px; padding-bottom: 25px">
+    <a href="httep://apragsdale.github.io/img/epifania-arango-isaza.jpg"><img src="/img/epifania-arango-isaza.jpg" width="200" alt="Epifania Arango Isaza" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
+</div>
+**Epifanía Arango Isaza**, Postdoctoral Researcher  
+I study how human populations have changed over time using genomic data. I'm especially interested in migration, mixing, and the history of Indigenous communities in South America. I work at the intersection of genetics, linguistics, human geography, and archaeology to build a broader understanding of how people moved and interacted across different times.
+
+Email: [arangoisaza@wisc.edu](mailto:arangoisaza@wisc.edu)
+
+---
+
+<div style="float: left; padding-right:25px; padding-bottom: 25px">
     <a href="httep://apragsdale.github.io/img/gustavo-barroso.jpeg"><img src="/img/gustavo-barroso.jpeg" width="200" alt="Gustavo Barroso" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
 </div>
 **Gustavo Barosso**, Postdoctoral Researcher  
