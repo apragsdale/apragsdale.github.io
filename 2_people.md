@@ -68,23 +68,6 @@ Email: [nathan.wally.anderson@gmail.com](mailto:nathan.wally.anderson@gmail.com)
 ---
 
 <div style="float: left; padding-right:25px; padding-bottom: 25px">
-    <a href="httep://apragsdale.github.io/img/lloyd-kirk.jpeg"><img src="/img/lloyd-kirk.jpeg" width="200" alt="Lloyd Kirk" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
-</div>
-**Lloyd Kirk**, Graduate Student  
-I am a computer enthusiast and an avid learner of statistical and population
-genetics theory, with particular interests in structural variation and its
-fitness effects. I'm currently working on methods for computing two-locus
-statistics from tree sequences. Before joining the lab, I was working in the
-clinical genetics testing industry. I did my bachelor's in Plant Sciences and
-MCD Biology at UC Santa Cruz. In my free time, I enjoy biking, cooking, and
-nerding out. You can find some of my work (and harebrained ideas) on my
-[github](http://github.com/lkirk).
-
-Email: [lkirk2@wisc.edu](mailto:lkirk2@wisc.edu)
-
----
-
-<div style="float: left; padding-right:25px; padding-bottom: 25px">
     <a href="httep://apragsdale.github.io/img/santiago-medina.jpeg"><img src="/img/santiago-medina.jpeg" width="200" alt="Santiago Medina" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
 </div>
 **Santiago Medina**, Joint graduate student with the
@@ -112,6 +95,9 @@ I am interested in population genetics and systematics. I want to learn how evol
 
 ## Past members
 
+Lloyd Kirk, Masters Student (2022-2025)
+
+_Undergraduates_  
 Nithya Atla, Undergraduate Researcher (Fall 2024)  
 Renee Li, Undergraduate Researcher (Fall 2021-Spring 2024)  
 Vasudha Khanna, Undergraduate Researcher (Fall 2021-Summer 2023)  

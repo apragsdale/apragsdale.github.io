@@ -4,6 +4,10 @@ title: "Publications"
 header-img: "img/Banner4.jpg"
 ---
 
+This list is liable to become out of date periodically. For an up-to-date list
+of publications, have a look at
+[Aaron's Google Scholar profile](https://scholar.google.com/citations?user=qtC_qt4AAAAJ&hl=en&oi=ao).
+
 **bold**: Ragsdale Lab members
 
 ### Preprints
