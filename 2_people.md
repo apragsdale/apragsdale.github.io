@@ -37,8 +37,6 @@ I’m interested in human evolutionary and population genetics. I received my ba
 
 Email: [sumit.sen@wisc.edu](mailto:sumit.sen@wisc.edu)
 
-<br>
-
 ---
 
 <div style="float: left; padding-right:25px; padding-bottom: 25px">
@@ -70,12 +68,28 @@ Brazilian Jiu-Jitsu.
 
 ---
 
+#### Undergraduate researchers
+
+Yufei Zhou (2025-): Data Science major, working on recent population history and linguistics in South America
+
+Jesse (Yixin) Yang (2025-): Biochemistry and Computer Science major, working on protein evolution and mutational robustness
+
+Jiarui (Chris) Gong (2025-): Mathematics and Statistics major, working on protein evolution and mutational robustness
+
+Stavan Sagala (2026-): Computer Science and Statistics major, working on embedding methods in phylogenetic inference
+
+---
+
 ## Past members
 
-Epifanía Arango Isaza, Postdoctoral Researcher (2025-2026) -- moved on to a Marie Curie postdoctoral fellowship at U Copenhagen  
-Nathan Anderson, PhD Student (graduated 2026) -- moved on to a postdoc with Yuval Simons at U Chicago  
-Nicholas Collier, Undergraduate and Post-Bac Researcher (2022-2026) -- moved on to pursue a PhD in Genetics at UW-Madison  
-Gustavo Barroso, Postdoctoral Researcher (2022-2026)  
+Epifanía Arango Isaza, Postdoctoral Researcher (2025-2026) -- moved on to a Marie Curie postdoctoral fellowship at U Copenhagen
+
+Nathan Anderson, PhD Student (graduated 2026) -- moved on to a postdoc with Yuval Simons at U Chicago
+
+Nicholas Collier, Undergraduate and Post-Bac Researcher (2022-2026) -- moved on to pursue a PhD in Genetics at UW-Madison
+
+Gustavo Barroso, Postdoctoral Researcher (2022-2026)
+
 Lloyd Kirk, Masters Student (2022-2025)
 
 _Undergraduates_    
