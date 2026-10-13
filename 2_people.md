@@ -16,7 +16,7 @@ opportunities.
 	<a href="http://apragsdale.github.io/img/aaron-ragsdale.jpg"><img src="/img/aaron-ragsdale.jpg" width="200" alt="Aaron Ragsdale" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
 </div>
 **Aaron Ragsdale**, Assistant Professor  
-I joined the Department of Integrative Biology at UW-Madison in Fall 2021.
+I joined the Department of Integrative Biology (now "Biology") at UW-Madison in Fall 2021.
 I am interested in the evolutionary and historical processes that shape
 molecular and organismal variation (see [our research interests in the lab](1_research.html)).
 Prior to Wisconsin, I was a postdoc with both
@@ -29,46 +29,33 @@ Email: [apragsdale@wisc.edu](mailto:apragsdale@wisc.edu)
 ---
 
 <div style="float: left; padding-right:25px; padding-bottom: 25px">
-    <a href="httep://apragsdale.github.io/img/epifania-arango-isaza.jpg"><img src="/img/epifania-arango-isaza.jpg" width="200" alt="Epifania Arango Isaza" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
+    <a href="http://apragsdale.github.io/img/sumit-sen.jpeg"><img src="/img/sumit-sen.jpeg" width="200"
+    alt="Sumin Set" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
 </div>
-**Epifanía Arango Isaza**, Postdoctoral Researcher  
-I study how human populations have changed over time using genomic data. I'm especially interested in migration, mixing, and the history of Indigenous communities in South America. I work at the intersection of genetics, linguistics, human geography, and archaeology to build a broader understanding of how people moved and interacted across different times.
+Sumit Sen (Graduate student)  
+I’m interested in human evolutionary and population genetics. I received my bachelor's degree in biological sciences at Northwestern University. My work at the Ragsdale Lab is focused on human evolutionary history in deep time and ARG-based inference. I have also previously worked on evaluating methods of controlling for population structure in tests for selection in ancient human DNA.
 
-Email: [arangoisaza@wisc.edu](mailto:arangoisaza@wisc.edu)
+Email: [sumit.sen@wisc.edu](mailto:sumit.sen@wisc.edu)
+
+<br>
 
 ---
 
 <div style="float: left; padding-right:25px; padding-bottom: 25px">
-    <a href="httep://apragsdale.github.io/img/gustavo-barroso.jpeg"><img src="/img/gustavo-barroso.jpeg" width="200" alt="Gustavo Barroso" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
+    <a href="http://apragsdale.github.io/img/bucky-badger.svg"><img src="/img/bucky-badger.svg" width="200"
+    alt="Max Shpak" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
 </div>
-**Gustavo Barosso**, Postdoctoral Researcher  
-I want to understand how population-level processes interact with
-molecular-level processes to shape patterns of genetic and phenotypic
-variation. To this end, I develop probabilistic models based on population
-genetics theory and apply them to both simulated and empirical datasets from
-a variety of species. My long-term goal is to build more realistic models of
-nature.
+Max Shpak (Research scientist)  
+(Blurb)
 
-Email: [valadaresbar@wisc.edu](mailto:valadaresbar@wisc.edu)
+Email: [mshpak@wisc.edu](mshpak@wisc.edu)
+
+<br><br><br><br>
 
 ---
 
 <div style="float: left; padding-right:25px; padding-bottom: 25px">
-    <a href="httep://apragsdale.github.io/img/nathan-anderson.png"><img src="/img/nathan-anderson.png" width="200" alt="Nathan Anderson" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
-</div>
-**Nathan Anderson**, Graduate Student  
-I am interested in the genomic response to selection. My research focuses on
-developing Diffusion models for complex selective pressures such as
-quantitative traits in changing environments, and background selection. Before
-joining UW-Madison, I received my undergraduate in applied mathematics at Texas
-A&M University and researched phylogenetic methods under Heath Blackmon.
-
-Email: [nathan.wally.anderson@gmail.com](mailto:nathan.wally.anderson@gmail.com)
-
----
-
-<div style="float: left; padding-right:25px; padding-bottom: 25px">
-    <a href="httep://apragsdale.github.io/img/santiago-medina.jpeg"><img src="/img/santiago-medina.jpeg" width="200" alt="Santiago Medina" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
+    <a href="http://apragsdale.github.io/img/santiago-medina.jpeg"><img src="/img/santiago-medina.jpeg" width="200" alt="Santiago Medina" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
 </div>
 **Santiago Medina**, Joint graduate student with the
 [Andrés Moreno Lab](http://www.morenolab.org/)
@@ -83,21 +70,15 @@ Brazilian Jiu-Jitsu.
 
 ---
 
-<div style="float: left; padding-right:25px; padding-bottom: 25px">
-    <a href="httep://apragsdale.github.io/img/nick-collier.jpg"><img src="/img/nick-collier.jpg" width="200" alt="Nick Collier" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
-</div>
-**Nick Collier**, postbaccalaureate researcher  
-I am interested in population genetics and systematics. I want to learn how evolutionary processes give rise to biological diversity at and above the population level. I received a bachelor's degree in evolutionary biology from UW-Madison in spring 2024.
-
-<br><br><br>
-
----
-
 ## Past members
 
+Epifanía Arango Isaza, Postdoctoral Researcher (2025-2026) -- moved on to a Marie Curie postdoctoral fellowship at U Copenhagen  
+Nathan Anderson, PhD Student (graduated 2026) -- moved on to a postdoc with Yuval Simons at U Chicago  
+Nicholas Collier, Undergraduate and Post-Bac Researcher (2022-2026) -- moved on to pursue a PhD in Genetics at UW-Madison  
+Gustavo Barroso, Postdoctoral Researcher (2022-2026)  
 Lloyd Kirk, Masters Student (2022-2025)
 
-_Undergraduates_  
+_Undergraduates_    
 Nithya Atla, Undergraduate Researcher (Fall 2024)  
 Renee Li, Undergraduate Researcher (Fall 2021-Spring 2024)  
 Vasudha Khanna, Undergraduate Researcher (Fall 2021-Summer 2023)  
