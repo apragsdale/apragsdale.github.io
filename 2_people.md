@@ -10,8 +10,6 @@ opportunities.
 
 ## Current group members
 
-<br>
-
 <div style="float: left; padding-right: 25px; padding-bottom: 25px">
 	<a href="http://apragsdale.github.io/img/aaron-ragsdale.jpg"><img src="/img/aaron-ragsdale.jpg" width="200" alt="Aaron Ragsdale" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
 </div>
@@ -32,7 +30,7 @@ Email: [apragsdale@wisc.edu](mailto:apragsdale@wisc.edu)
     <a href="http://apragsdale.github.io/img/sumit-sen.jpeg"><img src="/img/sumit-sen.jpeg" width="200"
     alt="Sumin Set" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
 </div>
-Sumit Sen (Graduate student)  
+**Sumit Sen** (Graduate student)  
 I’m interested in human evolutionary and population genetics. I received my bachelor's degree in biological sciences at Northwestern University. My work at the Ragsdale Lab is focused on human evolutionary history in deep time and ARG-based inference. I have also previously worked on evaluating methods of controlling for population structure in tests for selection in ancient human DNA.
 
 Email: [sumit.sen@wisc.edu](mailto:sumit.sen@wisc.edu)
@@ -40,15 +38,13 @@ Email: [sumit.sen@wisc.edu](mailto:sumit.sen@wisc.edu)
 ---
 
 <div style="float: left; padding-right:25px; padding-bottom: 25px">
-    <a href="http://apragsdale.github.io/img/bucky-badger.svg"><img src="/img/bucky-badger.svg" width="200"
+    <a href="http://apragsdale.github.io/img/max-shpak.png"><img src="/img/max-shpak.png" width="200"
     alt="Max Shpak" onclick="_gaq.push(['_trackEvent', 'IMGs', 'Image', 'Ironman']);" /></a>
 </div>
-Max Shpak (Research scientist)  
-(Blurb)
+**Max Shpak** (Research scientist)  
+Max's primary research interest is understanding the processes that drive changes in allele frequency and the distribution of quantitative traits under natural selection and neutral evolution. His current project in the lab is a study of the dynamics of underdominant selection on alleles contributing to quantitative traits. He is also pursuing a side project applying diffusion models to approximate the dynamics of frequency-dependent selection.
 
 Email: [mshpak@wisc.edu](mshpak@wisc.edu)
-
-<br><br><br><br>
 
 ---
 
@@ -92,7 +88,8 @@ Gustavo Barroso, Postdoctoral Researcher (2022-2026)
 
 Lloyd Kirk, Masters Student (2022-2025)
 
-_Undergraduates_    
+#### Undergraduates
+
 Nithya Atla, Undergraduate Researcher (Fall 2024)  
 Renee Li, Undergraduate Researcher (Fall 2021-Spring 2024)  
 Vasudha Khanna, Undergraduate Researcher (Fall 2021-Summer 2023)  
