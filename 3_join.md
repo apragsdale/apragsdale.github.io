@@ -10,7 +10,7 @@ development, and genetic anthropology. Almost all projects involve some level
 of math and statistics although there is a wide range of possible topics, from
 development of population genetic theory to empirical analyses of genetic data
 to learn about demographic or evolutionary history. More information about our
-research and interests can be found [here](2_research.html) or by browsing our
+research and interests can be found [here](/1_research.html) or by browsing our
 [recent publications](4_publications.html).
 
 Read our [lab guidelines and expectations](LabGuidlines/Ragsdale-Lab-Expectations.pdf).

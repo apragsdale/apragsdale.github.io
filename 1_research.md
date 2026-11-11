@@ -42,6 +42,6 @@ Read our [lab guidelines and expectations](LabGuidlines/Ragsdale-Lab-Expectation
 ### Collaborators
 
 - [Simon Gravel](https://gravellab.github.io/), McGill University
-- [Brenna Henn](http://hennlab.ucdavis.edu/), UC Davis
-- [Andres Moreno](http://www.morenolab.org/), LANGEBIO-Cinvestav
-- [Kevin Thornton](http://www.molpopgen.org/), UC Irvine
+- [Brenna Henn](https://hennlab.ucdavis.edu/), UC Davis
+- [Andres Moreno](https://morenolab.org/), LANGEBIO-Cinvestav
+- [Kevin Thornton](https://www.molpopgen.org/), UC Irvine

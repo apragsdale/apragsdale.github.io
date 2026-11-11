@@ -409,3 +409,19 @@ figure img {
 figure figcaption {
     text-align: center;
 }
+/* Readability of white header/nav text over busy banner photos */
+.intro-header .site-heading,
+.intro-header .post-heading,
+.intro-header .page-heading {
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.55);
+}
+@media only screen and (min-width: 768px) {
+  .navbar-custom .navbar-brand,
+  .navbar-custom .nav li a {
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
+  }
+  .navbar-custom.is-fixed .navbar-brand,
+  .navbar-custom.is-fixed .nav li a {
+    text-shadow: none;
+  }
+}

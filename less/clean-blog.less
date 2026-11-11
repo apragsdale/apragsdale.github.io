@@ -461,3 +461,28 @@ img::-moz-selection {
 body {
 	webkit-tap-highlight-color: @brand-primary;
 }
+
+// Readability of white header/nav text over busy banner photos
+
+.intro-header {
+	.site-heading,
+	.post-heading,
+	.page-heading {
+		text-shadow: 0 1px 4px rgba(0, 0, 0, 0.55);
+	}
+}
+
+@media only screen and (min-width: 768px) {
+	.navbar-custom {
+		.navbar-brand,
+		.nav li a {
+			text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6);
+		}
+		&.is-fixed {
+			.navbar-brand,
+			.nav li a {
+				text-shadow: none;
+			}
+		}
+	}
+}

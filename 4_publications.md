@@ -10,8 +10,6 @@ of publications, have a look at
 
 **bold**: Ragsdale Lab members
 
-### Preprints
-
 ### Articles  
 
 **Aaron P. Ragsdale**, 2023.
@@ -72,9 +70,9 @@ Alex C. McAlvay, **Aaron P. Ragsdale**, Makenzie E. Mabry, Xinshuai Qi, Kevin A.
 [*Brassica rapa* domestication: Untangling wild and feral forms and convergence of crop morphotypes](https://academic.oup.com/mbe/article/38/8/3358/6261082).
 *Molecular Biology and Evolution* 38(8), 3358-3372.
 
-Xin Huang, Alyssa Lyn Fortier, Alec J. Coffman, Travis J. Struck, Megan N. Irby, Jose E. Léon-Burguete, **Aaron P. Ragsdale**, Ryan N. Gutenkunst, 2019.
-[Inferring genome-wide correlations of mutation fitness effects between populations](https://academic.oup.edu/mbe/advance-article/doi/10.1093/molbev/msab162/6287068).
-*Molecular Biology and Evolution*, msab162.
+Xin Huang, Alyssa Lyn Fortier, Alec J. Coffman, Travis J. Struck, Megan N. Irby, Jose E. Léon-Burguete, **Aaron P. Ragsdale**, Ryan N. Gutenkunst, 2021.
+[Inferring genome-wide correlations of mutation fitness effects between populations](https://doi.org/10.1093/molbev/msab162).
+*Molecular Biology and Evolution* 38(10), 4588-4602.
 
 Shadi Zabad, **Aaron P. Ragsdale**, Rosie Sun, Yue Li, Simon Gravel, 2021.
 [Assumptions about frequency-dependent architectures of complex traits bias measures of functional enrichment](https://onlinelibrary.wiley.com/doi/abs/10.1002/gepi.22388).
