@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "People"
-header-img: "img/Banner2.jpg"
+header-img: "img/Banner7.jpg"
 ---
 
 Are you interested in [joining](3_join.html) our research group? Check out our
